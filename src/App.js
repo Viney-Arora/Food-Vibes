@@ -9,7 +9,7 @@ function App() {
         <header className="App-header">
           <img src={hotel} className="App-logo" alt="logo" />
           <p>
-            This is VP restaurant website
+            This is VP restaurant website ...new update
           </p>
           <a
             className="App-link"
